@@ -8,9 +8,10 @@ If you are used to deleting ADIF files after uploading them, but didn't deleted 
 ### How to use
 
 First you need [install Node.js](https://nodejs.org)
+
 then download this tool
-then
-`npm recovery -callsign=KG5ZZL -path=/Users/2333333/Library/Application Support/WSJT-X/`
+
+then `npm recovery -callsign=KG5ZZL -path=/Users/2333333/Library/Application Support/WSJT-X/`
 
 ---
 
