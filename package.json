@@ -4,7 +4,6 @@
   "description": "wsjt-adif-file-recovery",
   "main": "recovery.js",
   "scripts": {
-    "recovery":"./recovery.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

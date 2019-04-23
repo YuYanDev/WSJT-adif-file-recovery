@@ -11,7 +11,7 @@ First you need [install Node.js](https://nodejs.org)
 
 then download this tool
 
-then `npm recovery -callsign=KG5ZZL -path=/Users/2333333/Library/Application Support/WSJT-X/`
+then `./recovery.js -callsign=KG5ZZL -path='/Users/2333333/Library/Application Support/WSJT-X/'`
 
 ---
 
