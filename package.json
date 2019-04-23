@@ -1,0 +1,24 @@
+{
+  "name": "wsjt-adif-file-recovery",
+  "version": "0.0.1",
+  "description": "wsjt-adif-file-recovery",
+  "main": "recovery.js",
+  "scripts": {
+    "recovery":"./recovery.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuYanDev/WSJT-adif-file-recovery.git"
+  },
+  "keywords": [
+    "ham",
+    "hamradio"
+  ],
+  "author": "yuyandev",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/YuYanDev/WSJT-adif-file-recovery/issues"
+  },
+  "homepage": "https://github.com/YuYanDev/WSJT-adif-file-recovery#readme"
+}
